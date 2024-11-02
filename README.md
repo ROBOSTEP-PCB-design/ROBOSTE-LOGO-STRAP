@@ -4,4 +4,4 @@
 
 説明書のPDF本体と，回路図，基板デザインを掲載しています。
 
-問い合わせ先：xxxx@gmail.com
+問い合わせ先：robocon.robostep_at_gmail.com
